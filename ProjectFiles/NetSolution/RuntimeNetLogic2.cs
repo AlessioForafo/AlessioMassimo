@@ -25,7 +25,7 @@ public class RuntimeNetLogic2 : BaseNetLogic
 
     [ExportMethod]
     public void TestMe(){
-        Log.Info("hello");
+        Log.Info("hello Alessio");
     }
 
     [ExportMethod]

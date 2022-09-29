@@ -3,3 +3,6 @@ Type: FolderType
 Children:
 - Name: RuntimeNetLogic1
   Type: NetLogic
+  Children:
+  - Class: Method
+    Name: pluto
