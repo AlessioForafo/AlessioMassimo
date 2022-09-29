@@ -252,3 +252,5 @@ Children:
       Children:
       - Class: Method
         Name: TestMe
+      - Class: Method
+        Name: TestMe2
